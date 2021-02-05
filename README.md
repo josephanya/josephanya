@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm Joseph Anya
+### Hi there! 👋 I'm Joseph Anya
 
 I am a Product Designer and Flutter Engineer with an academic background in Pharmacology. I have expertise in UI design, rapid prototyping, design thinking, user research, wireframes and mockups, dart (flutter), and basic web technologies. 
 
