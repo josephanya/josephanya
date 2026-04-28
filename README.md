@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm Joseph Anya
+# Hi there! 👋 I'm Joseph Anya
 
 I'm a product engineer and founder building **digital health infrastructure for Africa**.
 
